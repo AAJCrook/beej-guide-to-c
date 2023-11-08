@@ -1,7 +1,7 @@
 # beej-guide-to-c
 This is a coding companion for Beej's guide to C found here: https://beej.us/guide/bgc/html/split/
 Primarily the code will be commented for explanation, but for more difficult concepts that need to be elaborated on or visualized, notes will go in the docs folder.
-Sample file structure for this program:
+Sample file structure for this program:\
 .
 ├── README.md
 ├── docs
