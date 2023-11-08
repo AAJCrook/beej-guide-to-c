@@ -8,6 +8,6 @@ Sample file structure for this program:\
 │   └── hello_explained.png\
 └── src\
     ├── hello.c\
-    └── hello.h\
+    └── hello.h
 
 This project is primarily coded in a Windows Subsystem for Linux environment.
