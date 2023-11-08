@@ -11,3 +11,8 @@ Sample file structure for this program:\
     └── hello.h
 
 This project is primarily coded in a Windows Subsystem for Linux environment.
+
+Order of files:
+1. hello.c
+2. variables.c
+3. // TODO: Flow Control
