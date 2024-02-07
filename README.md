@@ -10,7 +10,7 @@ Sample file structure for this program:\
     ├── hello.c\
     └── hello.h
 
-This project is primarily coded in a Windows Subsystem for Linux environment.
+This project is primarily coded in a Windows Subsystem for Linux environment, though casually added to from various windows boxes as well.
 
 Order of files:
 1. hello.c

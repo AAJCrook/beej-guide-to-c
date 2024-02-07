@@ -34,4 +34,18 @@ int main(void)
     i += 2;
     i++;
     printf("Since i started at 2, had two added to it, and was incremented by 1, it should equal 5: %d\n", i);
+
+    // Ternary Operator: Value dependant on result of conditional
+    int y = 1;
+    int x = 12;
+
+    // If x > 10, add 17 to y, otherwise add 37 to y.
+    y += x > 10? 17: 37;
+
+    // Mentally, its nice to add paranthesis like this y += (x > 10? 17: 37;)
+    // It is also equivalent to:
+    if(x > 10)
+        y += 17;
+    else
+        y += 37;
 }
